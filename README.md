@@ -26,4 +26,14 @@ Para executar este projeto na sua máquina, você precisará das seguintes confi
 
 ### Demonstração do Projeto
 
+### Recursos do Projeto
+
+- **Scripts SQL Server**: [Acessar](https://github.com/pietracarneiro/case-so/blob/main/case-so/ScriptSQL/Script.sql)
+- **Conexão com o Banco de Dados**:
+  - [Models](https://github.com/pietracarneiro/case-so/tree/main/case-so/Models)
+  - [Configuração no Program.cs](https://github.com/pietracarneiro/case-so/blob/main/case-so/Program.cs)
+- **Services**: [Acessar](https://github.com/pietracarneiro/case-so/tree/main/case-so/Services)
+- **Controllers**: [Acessar](https://github.com/pietracarneiro/case-so/tree/main/case-so/Controllers)
+
+
 ![Demonstração do Projeto](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQxcm1oMDNvZWxqZGVvam5xZmU4MThoenI4MTV2MXM4ZjdtODFhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KIdYsGmYcuH10sJUpI/giphy.gif)
